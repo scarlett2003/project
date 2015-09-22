@@ -54,7 +54,11 @@ GEM
     mime-types (1.25.1)
     minitest (5.8.0)
     multi_json (1.11.2)
+<<<<<<< HEAD
     mysql2 (0.3.18)
+=======
+    mysql2 (0.4.1)
+>>>>>>> origin/master
     polyglot (0.3.5)
     rack (1.5.5)
     rack-test (0.6.3)
